@@ -1,0 +1,14 @@
+/* Show it is fixed to the top */
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+body {
+  font-family: 'Varela Round', sans-serif;
+  min-height: 75rem;
+  padding-top: 5.5rem;
+  background:#00ccff;
+}
+    
+.bg-manjar{
+        background:#33cccc;
+    }
+    
